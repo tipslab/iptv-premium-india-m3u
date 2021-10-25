@@ -10,7 +10,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
 http://212.102.60.40:2200/NL/sonymax2-in/index.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-name="SONY SAB HD",SONY SAB HD
-http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=RK
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
 http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
@@ -35,6 +35,9 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-NAME="ZEE CINEMA HD",ZEE CINEMA HD
 http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="ZEE PUNJABI HD",ZEE PUNJABI HD
+http://208.115.215.42:80/ZEE_Punjabi/tracks-v1a1/mono.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-NAME="AND TV HD",AND TV HD
 http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=TIPSLAB
