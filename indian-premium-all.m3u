@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png", SONY TV HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",SONY MAX2 HD
+http://212.102.60.40:2200/NL/sonymax2-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-name="SONY SAB HD",SONY SAB HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
+http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
+http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&=800&e=.m3u8
+
+#EXTINF:-1 tvg-name="NICK", NICK
+http://212.224.98.205:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-name="Hungama", Hungama
+http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-name="Pogo", Pogo
+http://212.224.98.211:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RK
+
+#EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
+http://212.224.98.211:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RK
