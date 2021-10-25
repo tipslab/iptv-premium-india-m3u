@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png", SONY TV HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?token=RK
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?token=RK
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",SONY MAX2 HD
-http://212.102.60.40:2200/NL/sonymax2-in/index.m3u8?token=RK
+http://212.102.60.40:2200/NL/sonymax2-in/index.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-name="SONY SAB HD",SONY SAB HD
 http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=RK
@@ -18,14 +18,38 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
 http://jo123.biz/jweb/m3u8.php?c=Sony_Pal&=800&e=.m3u8
 
+#EXTINF:-1 tvg-NAME="SONY PIX HD",SONY PIX HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="STAR PLUS HD",STAR PLUS HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="STAR GOLD SELECT HD",STAR GOLD SELECT HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="COLORS HD",COLORS HD
+http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="ZEE TV HD",ZEE TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="ZEE CINEMA HD",ZEE CINEMA HD
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="AND TV HD",AND TV HD
+http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-NAME="AND PICTURES HD",AND PICTURES HD
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=TIPSLAB
+
 #EXTINF:-1 tvg-name="NICK", NICK
-http://212.224.98.205:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RK
+http://212.224.98.205:2200/R-EX/KIDS_Nick-in/index.m3u8?token=TIPSLAB
 
-#EXTINF:-1 tvg-name="Hungama", Hungama
-http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-name="HUNGAMA", HUNGAMA
+http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=TIPSLAB
 
-#EXTINF:-1 tvg-name="Pogo", Pogo
-http://212.224.98.211:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-name="POGO", POGO
+http://212.224.98.211:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=TIPSLAB
 
 #EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
-http://212.224.98.211:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=RK
+http://212.224.98.211:2200/R-EX/KIDS_Cartoon_Network-in/index.m3u8?token=TIPSLAB
