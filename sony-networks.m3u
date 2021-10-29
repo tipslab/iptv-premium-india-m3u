@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png", SONY TV HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?token=TIPSLAB
+
